@@ -1,0 +1,39 @@
+[
+    {
+     "id":1,
+     "title": "web Developement",
+     "image":"https://movieapp-23.vercel.app/",
+    "description":"React.js movie search app using sass"
+    },
+    {
+     "id":2,
+     "title": "technology",
+     "image":"https://i.gadgets360cdn.com/large/galaxy_book_3_pro_360_mysmartprice_1674910887578.jpg?downsize=950:*",
+    "description":"Samsung Galaxy Book 3 Series Design Renders, Key Specifications Surface Ahead of Launch: Report"
+    },
+    {
+     "id":3,
+     "title": "AI",
+     "image":"https://i.gadgets360cdn.com/large/chatgpt_openai_reuters_1670485718798.jpg?downsize=950:*",
+    "description":"ChatGPT Usage Banned in French University Over Concerns About Fraud, Plagiarism "
+    }, {
+     "id":4,
+     "title": "web Developement",
+     "image":"https://i.gadgets360cdn.com/large/google_chrome_pexels_full_1559127939107.jpg?downsize=950:*",
+    "description":"Google Chrome Updated With Fingerprint Lock for Incognito Tabs on Android: How It Works"
+    }
+    , {
+     "id":5,
+     "title": "bitcoin",
+     "image":"https://i.gadgets360cdn.com/large/crypto_pixabay_worldspectrum_large_1647840432595.jpg?downsize=950:*",
+    "description":"Bitcoin, Ether Open with Minor Losses, Global Crypto Market Cap Stays Above $1 Trillion"
+    }
+    , {
+     "id":6,
+     "title": "game Developement",
+     "image":"https://i.gadgets360cdn.com/large/indus_gameplay_trailer_pre-reg_1674659526340.jpg?downsize=950:*",
+    "description":"Made-in-India Battle Royale ‘Indus’ Gameplay Trailer Revealed, Pre-Registrations Now Live on Android"
+    }
+    
+    
+ ]
